@@ -1,11 +1,12 @@
 moviePic{
-	hiight:100px;
-	width:100px;
-	opacity:auto;
+	hiight:400px;
+	width:300px;
+	opacity:0.9;
 }
 .movieDetails{
-	margin: 50% 50% 50% 50%;
+	position:absolute;
+	top:50%;
+	width: 80%;
 	font-size:20px;
 	text-align: center;
-	position:center;
 }
